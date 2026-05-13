@@ -7,7 +7,7 @@ Small test automation project built with Playwright and TypeScript to validate t
 Clone the repository:
 
 ```bash
-git clone "https://github.com/Jcontreras06/playwright-auth-tests"
+git clone https://github.com/Jcontreras06/playwright-auth-tests.git
 ```
 
 Navigate to the project folder:
